@@ -5,18 +5,18 @@ Ender 5 ModMax install guide and BoM
 Tcosta produced this Mercury One.1 Mod based on another modified Ender 5: https://www.youtube.com/watch?v=CWwZJeksejw&ab_channel=vedanthinorn
 This repo is just a community page to share this modification and make it easier for everyone to follow.
 
-# Requirements:
+# Build Options
 Dual-z: second motor, or belted lead screw to support 310 bed
 Bed Frame: second Ender 5 bed frame or custom setup (example pictured)
-
-# Easy Build:
-2040 extrusions
+2040/2020: use existing extrusions
 
 # Material choice:
-ASA: Orient all parts close together with brims. This will promote adheison and decrease chances of layer separation. I was able to print everything on one plate without an enclosure
+## ASA: *Orient all parts close together with brims. This will promote adheison and decrease chances of layer separation. I was able to print everything on one plate without an enclosure*
 stepper mounts, tension towers, gantry mounts
-PLA: 
+
+## PLA: 
 risers, cable chain/guide, MGN9 guide, 2020 spacer, guide rod brackets
+
 # STLs:
 V2: MGN9H Rails
 https://www.printables.com/model/1146469-ender-5-modmax-v02-upgrade-with-corexy-and-310x310/comments#preview.GZtbM
