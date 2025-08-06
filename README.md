@@ -11,10 +11,10 @@ Bed Frame: second Ender 5 bed frame or custom setup (example pictured)
 2040/2020: use existing extrusions
 
 # Material choice:
-## ASA: *Orient all parts close together with brims. This will promote adheison and decrease chances of layer separation. I was able to print everything on one plate without an enclosure*
+ASA: *Orient all parts close together with brims. This will promote adheison and decrease chances of layer separation. I was able to print everything on one plate without an enclosure*
 stepper mounts, tension towers, gantry mounts
 
-## PLA: 
+PLA: 
 risers, cable chain/guide, MGN9 guide, 2020 spacer, guide rod brackets
 
 # STLs:
